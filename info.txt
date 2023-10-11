@@ -1,0 +1,9 @@
+DML - São comandos(linhas):
+    INSERT,
+    UPDATE,
+    DELETE
+
+DDL - são comandos de criação de tabela, alteração de tabela é exclusão de tabela(colunas):
+    CREATE TABLE,
+    ALTER TABLE,
+    DROP TABLE
